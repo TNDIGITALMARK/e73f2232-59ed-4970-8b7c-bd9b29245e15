@@ -19,8 +19,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "Lion Eye Protection Services - Professional Security Solutions",
+  description: "Comprehensive security services including guarding, surveillance technology, drone monitoring, security fences, and professional security training academy.",
 };
 
 export default function RootLayout({
